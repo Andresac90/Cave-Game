@@ -52,3 +52,9 @@ Still not decided about the level design, I have two possibilities for now:
 2. Fixed-level design, the level is created and crafted “by hand”.
 
 With the first iterations of the game in Unity I will decide which approach to take.
+
+# Controls
+WASD Move
+
+# Known Issues
+Flashlight battery isnt working.
